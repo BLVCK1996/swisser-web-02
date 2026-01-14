@@ -410,7 +410,11 @@
   },
   "social": {
     "discord": "https://discord.gg/tRxN8uj7k2",
-    "tiktok": "https://tiktok.com/@nightcityrp"
+    "tiktok": "https://tiktok.com/@nightcityrp",
+    "twitter": "https://twitter.com/",
+    "youtube": "https://youtube.com/",
+    "instagram": "https://instagram.com/",
+    "twitch": "https://twitch.tv/"
   },
   "whitelist": {
     "enabled": true,
