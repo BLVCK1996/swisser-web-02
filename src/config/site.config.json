@@ -403,12 +403,12 @@
   },
   "whitelist": {
     "enabled": true,
-    "applicationUrl": "https://apply.nightcity-rp.com",
+    "applicationUrl": "https://discord.gg/tRxN8uj7k2",
     "requirements": [
       "Minimum age of 18 years old",
       "Working microphone",
       "Read and understand server rules",
-      "Pass character backstory review  & Discord Account Verification"
+      "Pass character backstory review & Discord Account Verification"
     ],
     "process": [
       "Fill out application form",
