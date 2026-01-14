@@ -176,24 +176,24 @@
   "features": [
     {
       "id": "custom-framework",
-      "title": "Custom Framework",
-      "description": "Proprietary technology designed for seamless, cinematic gameplay experiences",
+      "title": "Custom MLOs",
+      "description": "Custom MLOs made in house - The map is always evolving",
       "icon": "Code2",
       "highlight": true
     },
     {
       "id": "gang-system",
-      "title": "Territory Management",
-      "description": "Strategic control zones with dynamic influence and progression systems",
+      "title": "Realistic Enviornment",
+      "description": "From Peds to the cars they drive to the Atmosphere and Quality of Roleplay",
       "icon": "Users",
       "highlight": true
     },
     {
       "id": "economy",
       "title": "Dynamic Economy",
-      "description": "Relaistic Prices - Complex economic ecosystem with multiple revenue streams and market dynamics",
+      "description": "Relaistic Prices - Realistic Income - Realistic Bills and Billing System",
       "icon": "DollarSign",
-      "highlight": false
+      "highlight": true
     },
     {
       "id": "housing",
@@ -204,7 +204,7 @@
     },
     {
       "id": "vehicles",
-      "title": "300+ Vehicles",
+      "title": "100+ Vehicles",
       "description": "Extensive collection from classic cars to Newer Vehicles",
       "icon": "Car",
       "highlight": false
