@@ -16,11 +16,11 @@
     ],
     "ogImage": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=1200&h=630&fit=crop",
     "twitterCard": "summary_large_image",
-    "twitterHandle": "@P↟NE™",
+    "twitterHandle": "@pinerp",
     "favicon": "/favicon.ico",
     "themeColor": "#4A7C4E",
     "locale": "en_US",
-    "url": "P↟NE™"
+    "url": "https://69067e49.swisser-web-02.pages.dev"
   },
   "legal": {
     "companyName": "P↟NE™",
@@ -45,7 +45,7 @@
     "tagline": "Roxwood Where it Matters...",
     "slogan": "Every Story. Every Choice. Every Moment.",
     "description": "Experience cinematic storytelling in Roxwood County. Shape your narrative, build your empire, and become a someone in the most immersive roleplay environment.",
-    "ip": "P↟NE™",
+    "ip":"cfx.re/join/ze6bd9",
     "port": "30120",
     "discord": "https://discord.gg/tRxN8uj7k2",
     "maxPlayers": 64,
@@ -362,7 +362,7 @@
         "image": "https://images.unsplash.com/photo-1615906655593-ad0386982a0f?w=600&h=400&fit=crop"
       },
       {
-        "id": "amazonprime",
+        "id": "amazonfresh",
         "name": "Amazon Fresh Driver",
         "category": "civilian",
         "description": "Enusring that your groceries get to your doorstep in lightning speed",
@@ -410,7 +410,7 @@
   },
   "social": {
     "discord": "https://discord.gg/tRxN8uj7k2",
-    "tiktok": "https://tiktok.com/@nightcityrp",
+    "tiktok": "https://tiktok.com/@nightcityrp"
   },
   "whitelist": {
     "enabled": true,
