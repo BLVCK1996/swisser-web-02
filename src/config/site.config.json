@@ -106,9 +106,9 @@
         "veryHigh": "$$$$"
       },
       "salaryThresholds": {
-        "medium": 200,
-        "high": 300,
-        "veryHigh": 350
+        "medium": 20,
+        "high": 35,
+        "veryHigh": 50
       }
     },
     "rules": {
