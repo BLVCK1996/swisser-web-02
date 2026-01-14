@@ -1,8 +1,8 @@
 {
   "seo": {
-    "title": "NightCity Roleplay - Premium GTA V FiveM RP Server",
-    "shortTitle": "NightCity RP",
-    "description": "Join the most immersive GTA V FiveM roleplay server. Custom framework, active community, realistic economy, and endless roleplay possibilities. Apply for whitelist today!",
+    "title": "P↟NE™ Rowxwood County Roleplay",
+    "shortTitle": "P↟NE™",
+    "description": "The Most Immersive Roleplay Server on FiveM",
     "keywords": [
       "FiveM", 
       "GTA V", 
@@ -11,7 +11,7 @@
       "GTA Roleplay", 
       "FiveM Server", 
       "Gaming Community",
-      "Los Santos",
+      "Roxwood",
       "Whitelist Server"
     ],
     "ogImage": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=1200&h=630&fit=crop",
@@ -23,16 +23,16 @@
     "url": "https://nightcity-rp.com"
   },
   "legal": {
-    "companyName": "NightCity Roleplay",
-    "email": "contact@nightcity-rp.com",
-    "privacyEmail": "privacy@nightcity-rp.com",
-    "dpoEmail": "dpo@nightcity-rp.com",
-    "supportEmail": "support@nightcity-rp.com",
-    "lastUpdated": "2025-01-01",
+    "companyName": "P↟NE™",
+    "email": "damndaniel0000@gmail.com",
+    "privacyEmail": "damndaniel0000@gmail.com",
+    "dpoEmail": "damndaniel0000@gmail.com",
+    "supportEmail": "damndaniel0000@gmail.com",
+    "lastUpdated": "2026-01-15",
     "minAge": 18,
-    "copyrightYear": 2025,
+    "copyrightYear": 2026,
     "dataRetention": {
-      "characterData": "6 months of inactivity",
+      "characterData": "2 months of inactivity",
       "chatLogs": "30 days",
       "connectionLogs": "90 days",
       "banRecords": "Permanently",
@@ -40,26 +40,26 @@
     }
   },
   "server": {
-    "name": "NightCity Roleplay",
-    "shortName": "NCRP",
-    "tagline": "Where Legends Are Written",
+    "name": "P↟NE™ Roxwood County Roleplay",
+    "shortName": "P↟NE™",
+    "tagline": "Join Today",
     "slogan": "Every Story. Every Choice. Every Moment.",
-    "description": "Experience cinematic storytelling in Los Santos. Shape your narrative, build your empire, and become a legend in the most immersive roleplay environment.",
-    "ip": "play.nightcity-rp.com",
+    "description": "Experience cinematic storytelling in Roxwood County. Shape your narrative, build your empire, and become a someone in the most immersive roleplay environment.",
+    "ip": "P↟NE™",
     "port": "30120",
-    "discord": "https://discord.gg/fourtwenty",
-    "maxPlayers": 256,
-    "location": "Los Santos",
+    "discord": "https://discord.gg/tRxN8uj7k2",
+    "maxPlayers": 64,
+    "location": "Roxwood County",
     "language": "English",
     "logo": {
-      "type": "text",
+      "type": "voice",
       "content": "NC"
     },
     "stats": {
-      "established": "2024",
-      "totalPlayers": "15,000+",
-      "activeGangs": "12",
-      "businesses": "45+"
+      "established": "2026",
+      "totalPlayers": "64",
+      "activeGangs": "4",
+      "businesses": "25+"
     },
     "loadingTips": [
       "Every character has a story. What's yours?",
@@ -86,13 +86,13 @@
       "sectionTag": "Experience",
       "title": "Server",
       "titleAccent": "Features",
-      "highlight": "256 PLAYERS • CUSTOM FRAMEWORK • CINEMATIC ROLEPLAY"
+      "highlight": "CUSTOM MLOS • REFRESHING UI • REALISTIC ROLEPLAY"
     },
     "jobs": {
       "sectionTag": "Careers",
       "title": "Build Your",
-      "titleAccent": "Legacy",
-      "subtitle": "Shape your destiny in Los Santos. Every career path tells a different story.",
+      "titleAccent": "Storyline",
+      "subtitle": "Shape your destiny in Roxwood. Every career path tells a different story.",
       "categoriesTitle": "Categories",
       "allJobsLabel": "All Jobs",
       "totalJobsLabel": "Total Jobs",
@@ -107,8 +107,8 @@
       },
       "salaryThresholds": {
         "medium": 200,
-        "high": 350,
-        "veryHigh": 450
+        "high": 300,
+        "veryHigh": 350
       }
     },
     "rules": {
@@ -136,7 +136,7 @@
       "sectionTag": "Showcase",
       "title": "Media",
       "titleAccent": "Gallery",
-      "subtitle": "Captured moments from our cinematic universe.",
+      "subtitle": "Captured moments from the Roxwood Universe",
       "evidencePrefix": "File #",
       "featuredBadge": "Featured"
     },
@@ -165,7 +165,7 @@
       "offlineText": "Offline"
     },
     "common": {
-      "playNow": "PLAY NOW",
+      "playNow": "Play Now",
       "discord": "DISCORD",
       "loading": "Loading...",
       "privacy": "Privacy",
@@ -191,21 +191,21 @@
     {
       "id": "economy",
       "title": "Dynamic Economy",
-      "description": "Complex economic ecosystem with multiple revenue streams and market dynamics",
+      "description": "Relaistic Prices - Complex economic ecosystem with multiple revenue streams and market dynamics",
       "icon": "DollarSign",
       "highlight": false
     },
     {
       "id": "housing",
       "title": "Real Estate Portfolio",
-      "description": "Acquire properties ranging from starter apartments to luxury penthouses",
+      "description": "Acquire properties ranging from starter apartments to Nice Homes",
       "icon": "Home",
       "highlight": false
     },
     {
       "id": "vehicles",
       "title": "300+ Vehicles",
-      "description": "Extensive collection from classic cars to cutting-edge supercars",
+      "description": "Extensive collection from classic cars to Newer Vehicles",
       "icon": "Car",
       "highlight": false
     },
@@ -222,15 +222,15 @@
       { 
         "id": 1, 
         "src": "https://images.unsplash.com/photo-1486428128344-5413e434ad35?w=800&h=600&fit=crop", 
-        "alt": "City skyline at night", 
-        "title": "Downtown Los Santos",
+        "alt": "Roxwoods Beauty", 
+        "title": "Roxwood Awaits",
         "category": "locations",
         "featured": true
       },
       { 
         "id": 2, 
         "src": "https://images.unsplash.com/photo-1593280405106-e438ebe93f5b?w=800&h=600&fit=crop", 
-        "alt": "Police chase scene", 
+        "alt": "Sheriff chase scene", 
         "title": "High Speed Chase",
         "category": "action",
         "featured": true
@@ -239,7 +239,7 @@
         "id": 3, 
         "src": "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?w=800&h=600&fit=crop", 
         "alt": "Car meet event", 
-        "title": "Weekly Car Meet",
+        "title": "Car Scenes in Roxwood",
         "category": "events",
         "featured": false
       },
@@ -247,7 +247,7 @@
         "id": 4, 
         "src": "https://images.unsplash.com/photo-1547447134-cd3f5c716030?w=800&h=600&fit=crop", 
         "alt": "Racing event", 
-        "title": "Street Racing",
+        "title": "Street Races on Narrow Roads",
         "category": "events",
         "featured": true
       },
