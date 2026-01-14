@@ -289,7 +289,7 @@
         "category": "emergency",
         "description": "Uphold justice and maintain order throughout Roxwood County",
         "requirements": ["21+ years old", "Clean record", "Interview required"],
-        "salary": -0,
+        "salary": 40.25,
         "image": "https://i.postimg.cc/wjttZnYT/Chat-GPT-Image-Jan-4-2026-11-48-48-PM.png"
       },
       {
@@ -298,7 +298,7 @@
         "category": "emergency",
         "description": "Emergency medical response and critical care services for Roxwood County",
         "requirements": ["21+ years old", "Medical training", "Active player"],
-        "salary": -0,
+        "salary": 40.25,
         "image": "https://i.postimg.cc/zBpXVk1X/Chat-GPT-Image-Jan-11-2026-02-54-11-AM.png"
       },
       {
@@ -307,7 +307,7 @@
         "category": "civilian",
         "description": "Enusring that mail and home deliverys get to your doorstep and Mailbox",
         "requirements": ["21+ years old", "Training provided"],
-        "salary": 300,
+        "salary": 37.50,
         "image": "https://i.postimg.cc/V67mYLjs/image-2026-01-14-140024202.png"
       },
             {
@@ -316,7 +316,7 @@
         "category": "civilian",
         "description": "Enusring that all trash is picked up from Marina and Juniper",
         "requirements": ["21+ years old", "Training provided"],
-        "salary": 300,
+        "salary": 37.50,
         "image": "https://i.postimg.cc/DySL3S19/Chat-GPT-Image-Jan-11-2026-02-42-04-AM.png"
       },
       {
@@ -325,7 +325,7 @@
         "category": "civilian",
         "description": "Professional transportation services throughout Los Santos",
         "requirements": ["Valid license", "Clean driving record"],
-        "salary": 250,
+        "salary": 31.25,
         "image": "https://i.postimg.cc/Kck8ZBsQ/image-2026-01-14-140251631.png"
       },
       {
@@ -334,7 +334,7 @@
         "category": "civilian",
         "description": "Enusring that mail and home deliverys get to your doorstep and Mailbox",
         "requirements": ["21+ years old", "Training provided"],
-        "salary": 250,
+        "salary": 31.25,
         "image": "https://i.postimg.cc/jjSRB77N/image-2026-01-14-140337052.png"
       },
       {
@@ -343,7 +343,7 @@
         "category": "civilian",
         "description": "Enusring that mail and home deliverys get to your doorstep and Mailbox",
         "requirements": ["21+ years old", "Training provided"],
-        "salary": 250,
+        "salary": 31.25,
         "image": "https://i.postimg.cc/FFjwgKfd/image-2026-01-14-140519072.png"
       },
       {
@@ -352,7 +352,7 @@
         "category": "civilian",
         "description": "Enusring that your groceries get to your doorstep in lightning speed",
         "requirements": ["21+ years old", "Training provided"],
-        "salary": 250,
+        "salary": 31.25,
         "image": "https://i.postimg.cc/XqQ8Ht6M/image-2026-01-14-140703577.png"
       }
     ]
