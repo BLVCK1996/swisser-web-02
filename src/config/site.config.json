@@ -1,6 +1,6 @@
 {
   "seo": {
-    "title": "P↟NE™ Rowxwood County Roleplay",
+    "title": "P↟NE™",
     "shortTitle": "P↟NE™",
     "description": "The Most Immersive Roleplay Server on FiveM",
     "keywords": [
@@ -16,11 +16,11 @@
     ],
     "ogImage": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=1200&h=630&fit=crop",
     "twitterCard": "summary_large_image",
-    "twitterHandle": "@nightcityrp",
+    "twitterHandle": "@P↟NE™",
     "favicon": "/favicon.ico",
     "themeColor": "#4A7C4E",
     "locale": "en_US",
-    "url": "https://nightcity-rp.com"
+    "url": "P↟NE™"
   },
   "legal": {
     "companyName": "P↟NE™",
@@ -40,9 +40,9 @@
     }
   },
   "server": {
-    "name": "P↟NE™ Roxwood County Roleplay",
+    "name": "P↟NE™",
     "shortName": "P↟NE™",
-    "tagline": "Join Today",
+    "tagline": "Roxwood Where it Matters...",
     "slogan": "Every Story. Every Choice. Every Moment.",
     "description": "Experience cinematic storytelling in Roxwood County. Shape your narrative, build your empire, and become a someone in the most immersive roleplay environment.",
     "ip": "P↟NE™",
@@ -274,14 +274,6 @@
         "title": "Custom Rides",
         "category": "vehicles",
         "featured": true
-      },
-      { 
-        "id": 8, 
-        "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=600&fit=crop", 
-        "alt": "Server event", 
-        "title": "Special Event",
-        "category": "events",
-        "featured": false
       }
     ],
     "categories": [
@@ -312,58 +304,34 @@
         "name": "Criminal",
         "color": "red",
         "legal": false
-      },
-      {
-        "id": "business",
-        "name": "Business",
-        "color": "gold",
-        "legal": true
-      },
-      {
-        "id": "government",
-        "name": "Government",
-        "color": "blue",
-        "legal": true
-      },
-      {
-        "id": "medical",
-        "name": "Medical",
-        "color": "green",
-        "legal": true
-      },
-      {
-        "id": "mechanic",
-        "name": "Mechanic",
-        "color": "orange",
-        "legal": true
       }
     ],
     "list": [
       {
-        "id": "police",
-        "name": "Police Officer",
+        "id": "sheriff",
+        "name": "Roxwood Sheriff",
         "category": "emergency",
-        "description": "Uphold justice and maintain order throughout Los Santos",
-        "requirements": ["18+ years old", "Clean record", "Interview required"],
-        "salary": 300,
+        "description": "Uphold justice and maintain order throughout Roxwood County",
+        "requirements": ["21+ years old", "Clean record", "Interview required"],
+        "salary": -0,
         "image": "https://images.unsplash.com/photo-1596265371388-43edbaadab94?w=600&h=400&fit=crop"
       },
       {
         "id": "ems",
-        "name": "Paramedic",
+        "name": "Roxwood Paramedic",
         "category": "emergency",
-        "description": "Emergency medical response and critical care services",
-        "requirements": ["16+ years old", "Medical training", "Active player"],
-        "salary": 250,
+        "description": "Emergency medical response and critical care services for Roxwood County",
+        "requirements": ["21+ years old", "Medical training", "Active player"],
+        "salary": -0,
         "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=600&h=400&fit=crop"
       },
       {
-        "id": "mechanic",
-        "name": "Mechanic",
-        "category": "mechanic",
-        "description": "Automotive specialist providing repair and customization services",
-        "requirements": ["No requirements", "Training provided"],
-        "salary": 150,
+        "id": "usps",
+        "name": "Mailman",
+        "category": "civilian",
+        "description": "Enusring that mail and home deliverys get to your doorstep and Mailbox",
+        "requirements": ["21+ years old", "Training provided"],
+        "salary": 300,
         "image": "https://images.unsplash.com/photo-1615906655593-ad0386982a0f?w=600&h=400&fit=crop"
       },
       {
@@ -372,287 +340,92 @@
         "category": "civilian",
         "description": "Professional transportation services throughout Los Santos",
         "requirements": ["Valid license", "Clean driving record"],
-        "salary": 100,
+        "salary": 250,
         "image": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=600&h=400&fit=crop"
       },
       {
-        "id": "dealer",
-        "name": "Drug Dealer",
-        "category": "criminal",
-        "description": "Manage distribution networks and territory operations",
-        "requirements": ["Street reputation", "Gang affiliation"],
-        "salary": 500,
-        "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop"
+        "id": "ups",
+        "name": "UPS Driver",
+        "category": "civilian",
+        "description": "Enusring that mail and home deliverys get to your doorstep and Mailbox",
+        "requirements": ["21+ years old", "Training provided"],
+        "salary": 250,
+        "image": "https://images.unsplash.com/photo-1615906655593-ad0386982a0f?w=600&h=400&fit=crop"
       },
       {
-        "id": "gunrunner",
-        "name": "Arms Dealer",
-        "category": "criminal",
-        "description": "Specialized equipment broker and logistics coordinator",
-        "requirements": ["Connections", "Trust level"],
-        "salary": 500,
-        "image": "https://images.unsplash.com/photo-1595590424283-b8f17842773f?w=600&h=400&fit=crop"
+        "id": "amazonprime",
+        "name": "Amazon Prime Driver",
+        "category": "civilian",
+        "description": "Enusring that mail and home deliverys get to your doorstep and Mailbox",
+        "requirements": ["21+ years old", "Training provided"],
+        "salary": 250,
+        "image": "https://images.unsplash.com/photo-1615906655593-ad0386982a0f?w=600&h=400&fit=crop"
       },
       {
-        "id": "lawyer",
-        "name": "Lawyer",
-        "category": "business",
-        "description": "Legal representation and courtroom advocacy services",
-        "requirements": ["Bar exam", "Good standing"],
-        "salary": 350,
-        "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&h=400&fit=crop"
-      },
-      {
-        "id": "judge",
-        "name": "Judge",
-        "category": "government",
-        "description": "Preside over legal proceedings and ensure justice",
-        "requirements": ["Legal experience", "Application required"],
-        "salary": 500,
-        "image": "https://images.unsplash.com/photo-1436450412740-6b988f486c6b?w=600&h=400&fit=crop"
-      },
-      {
-        "id": "doctor",
-        "name": "Doctor",
-        "category": "medical",
-        "description": "Lead medical professional providing specialized healthcare",
-        "requirements": ["Medical license", "Experience required"],
-        "salary": 400,
-        "image": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=600&h=400&fit=crop"
-      },
-      {
-        "id": "nurse",
-        "name": "Nurse",
-        "category": "medical",
-        "description": "Healthcare professional supporting medical operations",
-        "requirements": ["16+ years old", "Training provided"],
-        "salary": 200,
-        "image": "https://images.unsplash.com/photo-1621604603003-c324e1fb667d?w=600&h=400&fit=crop"
-      },
-      {
-        "id": "auto_mechanic",
-        "name": "Auto Mechanic",
-        "category": "mechanic",
-        "description": "Technical specialist in vehicle maintenance and modifications",
-        "requirements": ["Basic knowledge", "Tools provided"],
-        "salary": 180,
-        "image": "https://images.unsplash.com/photo-1625047509168-a7026f36de04?w=600&h=400&fit=crop"
+        "id": "amazonprime",
+        "name": "Amazon Fresh Driver",
+        "category": "civilian",
+        "description": "Enusring that your groceries get to your doorstep in lightning speed",
+        "requirements": ["21+ years old", "Training provided"],
+        "salary": 250,
+        "image": "https://images.unsplash.com/photo-1615906655593-ad0386982a0f?w=600&h=400&fit=crop"
       }
     ]
   },
   "rules": [
     {
-      "id": "rdm",
-      "title": "No Random Deathmatch (RDM)",
-      "description": "All actions require proper roleplay justification and context",
-      "category": "combat",
-      "severity": "high"
-    },
-    {
-      "id": "vdm",
-      "title": "No Vehicle Deathmatch (VDM)",
-      "description": "Vehicles are for transportation only, not as weapons",
-      "category": "combat",
-      "severity": "high"
-    },
-    {
-      "id": "metagaming",
-      "title": "No Metagaming",
-      "description": "Maintain strict separation between in-character and out-of-character knowledge",
-      "category": "roleplay",
-      "severity": "high"
-    },
-    {
-      "id": "powergaming",
-      "title": "No Powergaming",
-      "description": "Allow reasonable response time and maintain realistic limitations",
-      "category": "roleplay",
-      "severity": "medium"
-    },
-    {
-      "id": "nlr",
-      "title": "New Life Rule",
-      "description": "Character memory reset applies to events preceding death",
-      "category": "roleplay",
-      "severity": "medium"
-    },
-    {
-      "id": "respect",
-      "title": "Respect Everyone",
-      "description": "Maintain professional conduct and respect for all players",
-      "category": "general",
-      "severity": "high"
-    },
-    {
-      "id": "greenzone",
-      "title": "Green Zones",
-      "description": "Designated safe zones where hostile actions are prohibited",
-      "category": "zones",
-      "severity": "medium"
-    },
-    {
-      "id": "corruption",
-      "title": "Cop Corruption",
-      "description": "Law enforcement corruption requires administrative authorization",
-      "category": "special",
-      "severity": "low"
-    },
-    {
-      "id": "failrp",
-      "title": "No FailRP",
-      "description": "Maintain character consistency and value for life at all times",
-      "category": "roleplay",
-      "severity": "high"
-    },
-    {
-      "id": "combat-logging",
-      "title": "No Combat Logging",
-      "description": "Remain connected during active scenarios and confrontations",
-      "category": "combat",
-      "severity": "high"
-    },
-    {
-      "id": "robbery",
-      "title": "Robbery Rules",
-      "description": "Minimum law enforcement presence required for major crimes",
-      "category": "special",
-      "severity": "medium"
-    },
-    {
-      "id": "initiation",
-      "title": "Proper Initiation",
-      "description": "Proper roleplay initiation required before any hostile engagement",
-      "category": "combat",
-      "severity": "high"
-    },
-    {
-      "id": "value-life",
-      "title": "Value Your Life",
-      "description": "Respond appropriately to threatening situations and superior force",
-      "category": "roleplay",
-      "severity": "high"
-    },
-    {
-      "id": "mic-required",
-      "title": "Microphone Required",
-      "description": "Voice communication required for all roleplay interactions",
-      "category": "general",
-      "severity": "high"
-    },
-    {
-      "id": "exploits",
-      "title": "No Exploiting",
-      "description": "Exploitation of bugs results in immediate permanent removal",
-      "category": "general",
-      "severity": "high"
-    },
-    {
-      "id": "safezones",
-      "title": "Safe Zone Rules",
-      "description": "Weapons prohibited in designated government facilities",
-      "category": "zones",
-      "severity": "medium"
-    },
-    {
-      "id": "hostage",
-      "title": "Hostage Rules",
-      "description": "Hostage scenarios require genuine player participation",
-      "category": "special",
-      "severity": "medium"
-    },
-    {
-      "id": "ems-respect",
-      "title": "Respect EMS",
-      "description": "Allow emergency services to operate without interference",
-      "category": "combat",
-      "severity": "medium"
-    },
-    {
-      "id": "stream-sniping",
-      "title": "No Stream Sniping",
-      "description": "Prohibited use of live streams for tactical advantages",
-      "category": "general",
-      "severity": "high"
-    },
-    {
-      "id": "erp",
-      "title": "No ERP",
-      "description": "Adult content strictly prohibited in all scenarios",
-      "category": "roleplay",
+      "id": "rules",
+      "title": "How To See Rules",
+      "description": "All Rules are located in the Discord",
+      "category": "rules",
       "severity": "high"
     }
   ],
   "team": [
     {
-      "id": "john-doe",
-      "name": "John 'Boss' Doe",
-      "role": "Server Owner",
+      "id": "Blvck",
+      "name": "BLVCK",
+      "role": "Server Owner / MLO Dev / Server Dev",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
-      "discord": "bigboss",
-      "description": "Founder and visionary leader of NightCity Roleplay",
+      "discord": "BLVCK",
+      "description": "Founder and visionary of P↟NE™",
       "badge": "FOUNDER",
       "status": "active"
     },
     {
-      "id": "jane-smith",
-      "name": "Jane 'Control' Smith",
-      "role": "Head Administrator",
-      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
-      "discord": "control",
-      "description": "Ensuring server integrity and exceptional player experiences",
-      "badge": "ADMIN",
-      "status": "active"
-    },
-    {
-      "id": "mike-wilson",
-      "name": "Mike 'Tech' Wilson",
-      "role": "Lead Developer",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
-      "discord": "techguy",
-      "description": "Lead technical architect creating innovative gameplay systems",
-      "badge": "DEV",
-      "status": "active"
-    },
-    {
-      "id": "sarah-jones",
-      "name": "Sarah 'Peace' Jones",
-      "role": "Senior Moderator",
-      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
-      "discord": "peacekeeper",
-      "description": "Community liaison and conflict resolution specialist",
-      "badge": "MOD",
+      "id": "RuntzQueen",
+      "name": "xXRuntzQueenXx",
+      "role": "Server Owner",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
+      "discord": "xXRuntzQueenXx",
+      "description": "Founder and visionary of P↟NE™",
+      "badge": "FOUNDER",
       "status": "active"
     }
   ],
   "api": {
-    "serverCode": "ymkax5",
+    "serverCode": "ze6bd9",
     "cfxApiUrl": "https://servers-frontend.fivem.net/api/servers/single/",
     "refreshInterval": 30000
   },
   "social": {
-    "discord": "https://discord.gg/fourtwenty",
-    "twitter": "https://twitter.com/nightcityrp",
-    "youtube": "https://youtube.com/@nightcityrp",
+    "discord": "https://discord.gg/tRxN8uj7k2",
     "tiktok": "https://tiktok.com/@nightcityrp",
-    "instagram": "https://instagram.com/nightcityrp",
-    "twitch": "https://twitch.tv/nightcityrp",
-    "teamspeak": null,
-    "forum": null
   },
   "whitelist": {
     "enabled": true,
     "applicationUrl": "https://apply.nightcity-rp.com",
     "requirements": [
-      "Minimum age of 16 years",
+      "Minimum age of 18 years old",
       "Working microphone",
       "Read and understand server rules",
-      "Pass character backstory review"
+      "Pass character backstory review  & Discord Account Verification"
     ],
     "process": [
       "Fill out application form",
       "Wait for review (24-48 hours)",
       "Interview on Discord",
-      "Welcome to the streets"
+      "Welcome to P↟NE™"
     ]
   },
   "donations": {
@@ -688,7 +461,7 @@
     "showSocialLinks": true,
     "showLegalLinks": true,
     "showServerStats": true,
-    "copyright": "© 2025 NightCity Roleplay. All rights reserved.",
+    "copyright": "© 2026 P↟NE™. All rights reserved.",
     "disclaimer": "Not affiliated with Rockstar Games or Take-Two Interactive."
   }
 }
