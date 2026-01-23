@@ -14,7 +14,7 @@
       "Roxwood",
       "Whitelist Server"
     ],
-    "ogImage": "https://i.postimg.cc/L8RkMMF8/Chat-GPT-Image-Jan-14-2026-01-18-24-PM.png",
+    "ogImage": "https://ibb.co/hRnzZpWG",
     "twitterCard": "summary_large_image",
     "twitterHandle": "@pinerp",
     "favicon": "/favicon.ico",
@@ -44,7 +44,7 @@
     "shortName": "P↟NE™",
     "tagline": "Roxwood Where it Matters...",
     "slogan": "Every Story. Every Choice. Every Moment.",
-    "description": "Experience cinematic storytelling in Roxwood County. Shape your narrative, build your empire, and become a someone in the most immersive roleplay environment.",
+    "description": "Experience cinematic storytelling in Roxwood County. Shape your narrative, build your empire, and become a somebody in the most immersive roleplay environment.",
     "ip":"cfx.re/join/ze6bd9",
     "port": "30120",
     "discord": "https://discord.gg/tRxN8uj7k2",
@@ -58,7 +58,7 @@
     "stats": {
       "established": "2026",
       "totalPlayers": "64",
-      "activeGangs": "4",
+      "activeGangs": "6",
       "businesses": "25+"
     },
     "loadingTips": [
@@ -73,8 +73,8 @@
   },
   "images": {
     "hero": {
-      "loadingBackground": "https://i.postimg.cc/9fS9gVkh/Chat-GPT-Image-Jan-14-2026-01-18-24-PM.png",
-      "mainBackground": "https://i.postimg.cc/Dz5srLqH/Chat-GPT-Image-Jan-14-2026-01-14-58-PM.png"
+      "loadingBackground": "https://ibb.co/tTxJHQK2",
+      "mainBackground": "https://ibb.co/gLHmcMpQ"
     },
     "defaults": {
       "teamAvatar": "https://i.postimg.cc/xdP7Lxp1/b290f135-aeff-411b-8347-637f8d19a9fd.png",
@@ -229,7 +229,7 @@
       },
       { 
         "id": 2, 
-        "src": "https://i.postimg.cc/K8WVf3mZ/fbf88bae-94c0-4bfa-8454-a34cc1e862f8-(1).png", 
+        "src": "https://i.ibb.co/kVBJSvqs/fbf88bae-94c0-4bfa-8454-a34cc1e862f8-1.png", 
         "alt": "Sheriffs", 
         "title": "Active Sheriff Dept",
         "category": "action",
@@ -237,7 +237,7 @@
       },
       { 
         "id": 3, 
-        "src": "https://i.postimg.cc/MGD94cSS/7f8aefe0-5f4a-445a-9101-b8d58f87ccbd.png", 
+        "src": "https://i.ibb.co/G3VG6hMg/7f8aefe0-5f4a-445a-9101-b8d58f87ccbd.png", 
         "alt": "Car meet event", 
         "title": "Car Scenes in Roxwood",
         "category": "events",
@@ -245,7 +245,7 @@
       },
       { 
         "id": 4, 
-        "src": "https://i.postimg.cc/rp3N75HL/17803e2b-7d3e-4b7e-b60f-1af2700d6893.png", 
+        "src": "https://i.ibb.co/VWLBFK4k/17803e2b-7d3e-4b7e-b60f-1af2700d6893.png", 
         "alt": "More", 
         "title": "And Even More...",
         "category": "roleplay",
@@ -290,7 +290,7 @@
         "description": "Uphold justice and maintain order throughout Roxwood County",
         "requirements": ["21+ years old", "Clean record", "Interview required"],
         "salary": 40.25,
-        "image": "https://i.postimg.cc/wjttZnYT/Chat-GPT-Image-Jan-4-2026-11-48-48-PM.png"
+        "image": "https://ibb.co/RGCtxGw6"
       },
       {
         "id": "ems",
@@ -299,7 +299,7 @@
         "description": "Emergency medical response and critical care services for Roxwood County",
         "requirements": ["21+ years old", "Medical training", "Active player"],
         "salary": 40.25,
-        "image": "https://i.postimg.cc/zBpXVk1X/Chat-GPT-Image-Jan-11-2026-02-54-11-AM.png"
+        "image": "https://ibb.co/7NSgq6Jg"
       },
       {
         "id": "usps",
@@ -308,7 +308,7 @@
         "description": "Enusring that mail and home deliverys get to your doorstep and Mailbox",
         "requirements": ["21+ years old", "Training provided"],
         "salary": 37.50,
-        "image": "https://i.postimg.cc/V67mYLjs/image-2026-01-14-140024202.png"
+        "image": "https://ibb.co/FLsNKkxC"
       },
             {
         "id": "sanitation",
@@ -317,7 +317,7 @@
         "description": "Enusring that all trash is picked up from Marina and Juniper",
         "requirements": ["21+ years old", "Training provided"],
         "salary": 37.50,
-        "image": "https://i.postimg.cc/DySL3S19/Chat-GPT-Image-Jan-11-2026-02-42-04-AM.png"
+        "image": "https://ibb.co/scdBWy1"
       },
       {
         "id": "taxi",
@@ -326,7 +326,7 @@
         "description": "Professional transportation services throughout Los Santos",
         "requirements": ["Valid license", "Clean driving record"],
         "salary": 31.25,
-        "image": "https://i.postimg.cc/Kck8ZBsQ/image-2026-01-14-140251631.png"
+        "image": "https://ibb.co/DHpWjZKY"
       },
       {
         "id": "ups",
@@ -335,7 +335,7 @@
         "description": "Enusring that mail and home deliverys get to your doorstep and Mailbox",
         "requirements": ["21+ years old", "Training provided"],
         "salary": 31.25,
-        "image": "https://i.postimg.cc/jjSRB77N/image-2026-01-14-140337052.png"
+        "image": "https://ibb.co/Y4zxs1K2"
       },
       {
         "id": "amazonprime",
@@ -344,7 +344,7 @@
         "description": "Enusring that mail and home deliverys get to your doorstep and Mailbox",
         "requirements": ["21+ years old", "Training provided"],
         "salary": 31.25,
-        "image": "https://i.postimg.cc/FFjwgKfd/image-2026-01-14-140519072.png"
+        "image": "https://ibb.co/F4zbftNZ"
       },
       {
         "id": "amazonfresh",
@@ -353,7 +353,7 @@
         "description": "Enusring that your groceries get to your doorstep in lightning speed",
         "requirements": ["21+ years old", "Training provided"],
         "salary": 31.25,
-        "image": "https://i.postimg.cc/XqQ8Ht6M/image-2026-01-14-140703577.png"
+        "image": "https://ibb.co/pB3ZcJKH"
       }
     ]
   },
@@ -371,7 +371,7 @@
       "id": "Blvck",
       "name": "BLVCK",
       "role": "Server Owner / MLO Dev / Server Dev",
-      "avatar": "https://i.postimg.cc/XJ2GTWqj/b290f135-aeff-411b-8347-637f8d19a9fd.png",
+      "avatar": "https://ibb.co/V0z3yCXs",
       "discord": "BLVCK",
       "description": "Founder and visionary of P↟NE™",
       "badge": "FOUNDER",
@@ -381,7 +381,7 @@
       "id": "RuntzQueen",
       "name": "xXRuntzQueenXx",
       "role": "Server Owner",
-      "avatar": "https://i.postimg.cc/XJ2GTWqj/b290f135-aeff-411b-8347-637f8d19a9fd.png",
+      "avatar": "https://ibb.co/V0z3yCXs",
       "discord": "xXRuntzQueenXx",
       "description": "Founder and visionary of P↟NE™",
       "badge": "FOUNDER",
