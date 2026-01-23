@@ -77,8 +77,8 @@
       "mainBackground": "https://i.ibb.co/8LTNQDpG/Chat-GPT-Image-Jan-14-2026-01-14-58-PM.png"
     },
     "defaults": {
-      "teamAvatar": "https://i.postimg.cc/xdP7Lxp1/b290f135-aeff-411b-8347-637f8d19a9fd.png",
-      "galleryThumbnail": "https://i.postimg.cc/T2nkbHK4/Chat-GPT-Image-Jan-14-2026-01-27-30-PM.png"
+      "teamAvatar": "https://i.ibb.co/d47KSVXZ/image-2026-01-23-003324220.png",
+      "galleryThumbnail": "https://i.ibb.co/d47KSVXZ/image-2026-01-23-003324220.png"
     }
   },
   "ui": {
@@ -290,7 +290,7 @@
         "description": "Uphold justice and maintain order throughout Roxwood County",
         "requirements": ["21+ years old", "Clean record", "Interview required"],
         "salary": 40.25,
-        "image": "https://ibb.co/RGCtxGw6"
+        "image": "https://i.ibb.co/j9Lqc9Xw/Chat-GPT-Image-Jan-4-2026-11-28-36-PM.png"
       },
       {
         "id": "ems",
@@ -299,7 +299,7 @@
         "description": "Emergency medical response and critical care services for Roxwood County",
         "requirements": ["21+ years old", "Medical training", "Active player"],
         "salary": 40.25,
-        "image": "https://ibb.co/7NSgq6Jg"
+        "image": "https://i.ibb.co/2YF8Tf78/Chat-GPT-Image-Jan-11-2026-02-54-11-AM.png"
       },
       {
         "id": "usps",
@@ -308,7 +308,7 @@
         "description": "Enusring that mail and home deliverys get to your doorstep and Mailbox",
         "requirements": ["21+ years old", "Training provided"],
         "salary": 37.50,
-        "image": "https://ibb.co/FLsNKkxC"
+        "image": "https://i.ibb.co/v6sgHCwR/image-2026-01-23-000753124-removebg-preview-1.png"
       },
             {
         "id": "sanitation",
@@ -317,7 +317,7 @@
         "description": "Enusring that all trash is picked up from Marina and Juniper",
         "requirements": ["21+ years old", "Training provided"],
         "salary": 37.50,
-        "image": "https://ibb.co/scdBWy1"
+        "image": "https://i.ibb.co/X6rwYS5/Chat-GPT-Image-Jan-11-2026-02-42-04-AM.png"
       },
       {
         "id": "taxi",
@@ -326,7 +326,7 @@
         "description": "Professional transportation services throughout Los Santos",
         "requirements": ["Valid license", "Clean driving record"],
         "salary": 31.25,
-        "image": "https://ibb.co/DHpWjZKY"
+        "image": "https://i.ibb.co/xtHLrN5Y/Chat-GPT-Image-Jan-23-2026-12-05-12-AM.png"
       },
       {
         "id": "ups",
@@ -335,7 +335,7 @@
         "description": "Enusring that mail and home deliverys get to your doorstep and Mailbox",
         "requirements": ["21+ years old", "Training provided"],
         "salary": 31.25,
-        "image": "https://ibb.co/Y4zxs1K2"
+        "image": "https://i.ibb.co/bjSk9Cy1/image-2026-01-22-235927805.png"
       },
       {
         "id": "amazonprime",
@@ -344,7 +344,7 @@
         "description": "Enusring that mail and home deliverys get to your doorstep and Mailbox",
         "requirements": ["21+ years old", "Training provided"],
         "salary": 31.25,
-        "image": "https://ibb.co/F4zbftNZ"
+        "image": "https://i.ibb.co/chQcpdMf/Amazon-Prime-logo-2022-svg.png"
       },
       {
         "id": "amazonfresh",
@@ -353,7 +353,7 @@
         "description": "Enusring that your groceries get to your doorstep in lightning speed",
         "requirements": ["21+ years old", "Training provided"],
         "salary": 31.25,
-        "image": "https://ibb.co/pB3ZcJKH"
+        "image": "https://i.ibb.co/jPLGmgwC/image-2026-01-23-000228922.png"
       }
     ]
   },
@@ -371,7 +371,7 @@
       "id": "Blvck",
       "name": "BLVCK",
       "role": "Server Owner / MLO Dev / Server Dev",
-      "avatar": "https://ibb.co/V0z3yCXs",
+      "avatar": "https://i.ibb.co/d47KSVXZ/image-2026-01-23-003324220.png",
       "discord": "BLVCK",
       "description": "Founder and visionary of P↟NE™",
       "badge": "FOUNDER",
@@ -381,7 +381,7 @@
       "id": "RuntzQueen",
       "name": "xXRuntzQueenXx",
       "role": "Server Owner",
-      "avatar": "https://ibb.co/V0z3yCXs",
+      "avatar": "https://i.ibb.co/d47KSVXZ/image-2026-01-23-003324220.png",
       "discord": "xXRuntzQueenXx",
       "description": "Founder and visionary of P↟NE™",
       "badge": "FOUNDER",
